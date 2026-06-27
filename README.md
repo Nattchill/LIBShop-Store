@@ -93,7 +93,7 @@ This project provided valuable experience in:
 
 # GitHub Repository Link
 
-Add your GitHub repository URL here:
+(https://github.com/Nattchill/LIBShop-Store/edit/main/README.md)
 
 
 
