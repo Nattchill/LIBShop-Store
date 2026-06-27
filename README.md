@@ -57,7 +57,11 @@ The website emphasizes responsive design, intuitive navigation, and an attractiv
 
   ---
 
-  # Screenshots
+# Screenshots
+
+# Home
+<img width="1348" height="607" alt="Home page" src="https://github.com/user-attachments/assets/7a4f82ed-8ce0-4fe0-8f78-83e130c5b800" />
+
 
 
 # Challenges
