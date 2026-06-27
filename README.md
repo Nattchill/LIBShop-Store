@@ -55,6 +55,10 @@ The website emphasizes responsive design, intuitive navigation, and an attractiv
 * Product images and pricing
 * Footer with business information
 
+  ---
+
+  # Screenshots
+
 
 # Challenges
 
